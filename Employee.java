@@ -1,8 +1,6 @@
 public class Employee {
     private int id;
-//    this is id
     private String firstName, lastName;
-// this is details
     public int getId() {
         return id;
     }
